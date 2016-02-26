@@ -2,7 +2,7 @@
 //  HomeViewController.m
 //  琥珀旅行
 //
-//  Created by mac on 16/1/29.
+//  Created by 李迪琛 on 16/1/29.
 //  Copyright © 2016年 mac. All rights reserved.
 //
 

@@ -4097,9 +4097,9 @@
 		043AAC191C66113D00866622 /* classes */ = {
 			isa = PBXGroup;
 			children = (
-				0408B5FF1C7C56FA009FF073 /* trip(行程攻略) */,
-				0408AC301C7BFCCB009FF073 /* Travel(游记) */,
 				0408AB9E1C7BF081009FF073 /* Home(首页) */,
+				0408AC301C7BFCCB009FF073 /* Travel(游记) */,
+				0408B5FF1C7C56FA009FF073 /* trip(行程攻略) */,
 				043AAC211C66113D00866622 /* Login登陆授权 */,
 				043AAC291C66113D00866622 /* Main(主要) */,
 				043AACA01C66113D00866622 /* Me(我) */,
